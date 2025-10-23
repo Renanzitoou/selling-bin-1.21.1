@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "selling-bin",
+	"version": "${version}",
+	"name": "Selling Bin",
+	"description": "Sell Items in Selling Bin",
+	"authors": [
+		"Renanzito"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/selling-bin/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"renanzito.sellingbin.SellingBin"
+		],
+		"fabric-datagen": [
+			"renanzito.sellingbin.SellingBinDataGenerator"
+		],
+		"client": [
+			"renanzito.sellingbin.SellingBinClient"
+		]
+	},
+	"mixins": [
+		"selling-bin.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
