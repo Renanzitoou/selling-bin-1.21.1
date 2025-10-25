@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sellingbin:silver_coin"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "sellingbin:copper_coin"
+  }
+}

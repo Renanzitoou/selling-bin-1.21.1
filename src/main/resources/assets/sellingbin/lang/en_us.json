@@ -1,0 +1,10 @@
+{
+  "item.sellingbin.copper_coin": "Copper Coin",
+  "item.sellingbin.silver_coin": "Silver Coin",
+  "item.sellingbin.gold_coin": "Gold Coin",
+
+  "block.sellingbin.selling_bin_block": "Selling Bin",
+  "block.sellingbin.upgraded_selling_bin_block": "Upgraded Selling Bin",
+
+  "itemgroup.sellingbin.selling_bin_items": "Selling Bin Items"
+}

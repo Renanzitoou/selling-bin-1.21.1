@@ -1,0 +1,10 @@
+{
+  "item.sellingbin.copper_coin": "Moeda de Cobre",
+  "item.sellingbin.silver_coin": "Moeda de Prata",
+  "item.sellingbin.gold_coin": "Moeda de Ouro",
+
+  "block.sellingbin.selling_bin_block": "Caixa de Vendas",
+  "block.sellingbin.upgraded_selling_bin_block": "Caixa de Vendas Melhorada",
+
+  "itemgroup.sellingbin.selling_bin_items": "Selling Bin Itens"
+}

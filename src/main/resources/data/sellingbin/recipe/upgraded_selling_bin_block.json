@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "uuu",
+    "ucu"
+  ],
+  "key": {
+    "u": {
+      "item": "minecraft:diamond"
+    },
+    "c": {
+      "item": "sellingbin:selling_bin_block"
+    }
+  },
+  "result": {
+    "id": "sellingbin:upgraded_selling_bin_block",
+    "count": 1
+  }
+}

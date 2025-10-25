@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "cc",
+    "cc"
+  ],
+  "key": {
+    "c": {
+      "item": "sellingbin:copper_coin"
+    }
+  },
+  "result": {
+    "id": "sellingbin:silver_coin",
+    "count": 1
+  }
+}
